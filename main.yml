@@ -1,28 +1,23 @@
 name: generate animation
 
 on:
-  # run automatically every 12 hours
   schedule:
     - cron: "0 0 */2 * *" 
-  
-  # allows to manually run the job at any time
   workflow_dispatch:
-  
-  # run on every push on the master branch
   push:
     branches:
-    - main
-    
-  
+      - main
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
+
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Contribution Grid Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -31,9 +26,22 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: Generate Fireworks Animation (using JavaScript)
+        run: |
+          mkdir -p dist
+          echo "<html><head><script src='https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js'></script></head><body><script>
+          function setup() {
+            createCanvas(windowWidth, windowHeight);
+            background(0);
+          }
+          function draw() {
+            stroke(255);
+            strokeWeight(4);
+            point(random(width), random(height));
+          }
+          </script></body></html>" > dist/fireworks.html
+
+      - name: Push animations to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
