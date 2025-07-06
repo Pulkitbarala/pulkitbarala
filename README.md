@@ -98,7 +98,7 @@
 
 ## 🎬 Project Previews
 
-> 📸 Here's a sneak peek of one of my current builds: *(replace below with your own GIF or screenshot)*
+> 📸 Here's a sneak peek of one of my current builds:
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" alt="project demo gif"/>
@@ -110,9 +110,9 @@
 
 <p align="center">
   <a href="https://github.com/pulkitbarala" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://yourwebsite.com/resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-FFB400?style=for-the-badge&logo=read-the-docs&logoColor=black"/></a>
+  <a href="https://linkedin.com/in/pulkitbarala" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:pulkitbarala.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://pulkitbarala.github.io/resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-FFB400?style=for-the-badge&logo=read-the-docs&logoColor=black"/></a>
 </p>
 
 ---
