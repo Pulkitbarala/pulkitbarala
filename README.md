@@ -98,8 +98,7 @@
 
 ## 🎬 Project Previews
 
-> 📸 Here's a sneak peek of one of my current builds:  
-> *(replace below with your GIF or screenshot)*
+> 📸 Here's a sneak peek of one of my current builds: *(replace below with your own GIF or screenshot)*
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" alt="project demo gif"/>
