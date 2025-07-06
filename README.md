@@ -1,40 +1,84 @@
-## Hi there 👋 I'm Pulkit Barala
+<h1 align="center">Hi there 👋 I'm Pulkit Barala</h1>
 
-### 🚀 About Me
-I'm a 3rd-year **Data Science** student currently studying **Engineering**. I enjoy working on **Machine Learning, Web Development, and Competitive Programming**. I specialize in **DSA, AI/ML, and Full-Stack Development** with a strong focus on **modern UI/UX design**.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=500&lines=Data+Science+Engineer;Machine+Learning+Enthusiast;Web+Dev+%7C+UI%2FUX+Fan;Loves+Haryanvi+Songs+🎧" />
+</p>
 
-### 💻 What I'm Working On
-- 🚗 **Road Accident Detection System** that informs the nearest emergency services.
-- 🎮 **Game Concept** to teach basic Python programming.
-- 📊 **ML Models** like Decision Trees, KNN, and Linear Regression.
-- 🌐 **Web Projects**, including:
-  - **MyPerfectice Answers Webpage** with animations and a modern tech theme.
-  - **Teaching Platform Website** for BTech CSE students.
-  - **Woman Empowerment Website** listing government schemes by state.
-  - **Question-Answer Websites** with structured formatting.
-  - **Auto-Typer for LPU MyPerfectice Tests**.
 
-### 🛠️ Tech Stack
-- **Programming:** Python, C++, R, SQL
-- **Web Development:** HTML, CSS, JavaScript (Vanilla, No Frameworks)
-- **Databases:** Firestore, SQLDF
-- **ML/AI:** Supervised & Unsupervised Learning, Decision Trees, Bagging, Boosting, Random Forest
-- **Tools & Libraries:** ggplot2, gmodels, Tailwind CSS
-- **Software:** Dev C++ 17, g++ 9.2.0
+---
 
-### 📚 Currently Learning
-- **Data Structures & Algorithms (DSA)**
-- **Machine Learning & AI (Advanced Techniques)**
-- **Tailwind CSS for Modern UI Development**
+## 🚀 About Me
 
-### 🌍 Interests
-- Competitive Programming
-- Modern Web Development
-- AI & Machine Learning
-- UI/UX Design with Animations
+🎓 I'm a 3rd-year **Data Science** student currently pursuing **Engineering**.  
+💡 I love exploring **Machine Learning, Web Development**, and **Competitive Programming**.  
+🛠️ My core strengths lie in **DSA, AI/ML, and Full-Stack Development** with a keen eye for **modern UI/UX design**.
 
-### 📫 How to Reach Me
-- 💬 Feel free to ask me about **DSA, Machine Learning, and Web Development**!
-- 📩 Connect with me for collaborations on Data Science & Web Projects.
+---
 
-⚡ **Fun Fact:** I love listening to **Haryanvi songs** while coding! 🎶
+## 💻 What I'm Working On
+
+- 🚗 **Road Accident Detection System** that alerts nearby emergency services.
+- 🎮 A **Game Concept** to teach beginners the fundamentals of Python.
+- 📊 Building **ML Models** like Decision Trees, KNN, and Linear Regression.
+- 🌐 Crafting unique websites:
+  - ✨ **MyPerfectice Answers Webpage** with techy animations.
+  - 📚 **Teaching Platform** for BTech CSE students.
+  - 👩‍🦰 **Women Empowerment Website** listing state-wise government schemes.
+  - ❓ **Q&A Website** with clean, structured layout.
+  - 🤖 **Auto-Typer** for LPU’s MyPerfectice tests.
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming  
+`Python` `C++` `R` `SQL`
+
+### 🌐 Web  
+`HTML` `CSS` `JavaScript (Vanilla)`
+
+### 🧠 Machine Learning  
+`Decision Trees` `Bagging` `Boosting` `KNN` `Random Forest`
+
+### 🗄️ Databases  
+`Firestore` `SQLDF`
+
+### 📦 Tools & Libraries  
+`ggplot2` `gmodels` `Tailwind CSS`
+
+### 🧰 Software  
+`Dev C++ 17` `g++ 9.2.0`
+
+---
+
+## 📚 Currently Learning
+
+- 📘 **Data Structures & Algorithms (DSA)**
+- 🤖 **Advanced AI/ML Concepts**
+- 🎨 **Tailwind CSS** for smooth UI development
+
+---
+
+## 🌍 Interests
+
+💻 Competitive Programming  
+🌐 Modern Web Development  
+🧠 Artificial Intelligence  
+🎨 UI/UX Design & Animations
+
+---
+
+## 📫 Let's Connect
+
+💬 Ask me about **DSA**, **ML**, or **Web Projects**  
+🤝 Open for **collaborations** on exciting tech ideas!
+
+---
+
+> ⚡ **Fun Fact:** I love listening to **Haryanvi songs** while coding! 🎶
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7F7FD5&height=120&section=footer" />
+</p>
