@@ -23,7 +23,7 @@
 - 🚗 `Road Accident Detection` - Smart alert system for emergencies  
 - 🎮 `Python Learning Game` - Makes coding fun for beginners  
 - 📊 `ML Models` - Decision Trees, KNN, Linear Regression  
-- 🌐 `Web Apps:`  
+- 🌐 Web Apps:
   - ✨ MyPerfectice Auto Answer Platform  
   - 📚 BTech Teaching Resource Hub  
   - 👩‍🦰 Women Empowerment Scheme Finder  
@@ -62,16 +62,16 @@
 
 ---
 
-## 🎯 Interests
+## 🌍 Interests
 
-- 💻 Competitive Programming  
-- 🌍 Scalable Web Architecture  
-- 🎨 UI/UX Animation & Aesthetics  
-- 🤖 Real-world ML Applications  
+💻 Competitive Programming  
+🌐 Full-Stack & Responsive Web Design  
+🧠 Artificial Intelligence  
+🎨 UI/UX Animation & Aesthetics  
 
 ---
 
-## 🧩 GitHub Activity & Stats
+## 🎯 GitHub Activity & Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pulkitbarala&show_icons=true&theme=radical&hide_border=true&custom_title=Pulkit's GitHub Stats" width="48%" />
@@ -88,10 +88,33 @@
 
 ---
 
-## 📫 Connect with Me
+## 📅 Contribution Calendar
 
-- 💬 Ask me about **DSA**, **Machine Learning**, **Web Projects**  
-- 🤝 Open to **collaborations**, internships & internships  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pulkitbarala&theme=rogue&area=true&hide_border=true" />
+</p>
+
+---
+
+## 🎬 Project Previews
+
+> 📸 Here's a sneak peek of one of my current builds:  
+> *(replace below with your GIF or screenshot)*
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" alt="project demo gif"/>
+</p>
+
+---
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/pulkitbarala" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://yourwebsite.com/resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-FFB400?style=for-the-badge&logo=read-the-docs&logoColor=black"/></a>
+</p>
 
 ---
 
