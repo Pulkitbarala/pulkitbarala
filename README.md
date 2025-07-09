@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Pulkit Barala</h1>
+<h1 align="center">👋 Hi there, I'm Pulkit</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F78C6C&width=500&lines=Data+Science+Engineer;Machine+Learning+Enthusiast;Web+Dev+%7C+UI%2FUX+Fan;Loves+Haryanvi+Songs+🎧" />
