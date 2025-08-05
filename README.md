@@ -28,7 +28,7 @@
   - 📚 BTech Teaching Resource Hub  
   - 👩‍🦰 Women Empowerment Scheme Finder  
   - ❓ Structured Q&A Forum  
-  - 🤖 LPU MyPerfectice Auto-Typer Tool  
+  - 🤖 Auto-Typer Tool  
 
 ---
 
