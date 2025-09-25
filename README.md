@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-🎓 3rd-year **Data Science** student | B.Tech in Engineering  
+🎓 final year **Data Science** student | B.Tech in Engineering  
 🧠 Focused on **Machine Learning**, **Web Dev**, and **Competitive Programming**  
 🎨 Passionate about **modern UI/UX** and meaningful tech
 
